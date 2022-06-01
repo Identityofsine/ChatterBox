@@ -1,0 +1,16 @@
+﻿  ChatterBox.cpp
+C:\Users\Kevin\Documents\GitHub\CPPChat\ChatterBox\server.h(89,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kevin\Documents\GitHub\CPPChat\ChatterBox\server.h(112,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kevin\Documents\GitHub\CPPChat\ChatterBox\server.h(127,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kevin\Documents\GitHub\CPPChat\ChatterBox\server.h(137,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kevin\Documents\GitHub\CPPChat\ChatterBox\server.h(153,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kevin\Documents\GitHub\CPPChat\ChatterBox\server.h(157,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  server.cpp
+C:\Users\Kevin\Documents\GitHub\CPPChat\ChatterBox\server.h(89,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kevin\Documents\GitHub\CPPChat\ChatterBox\server.h(112,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kevin\Documents\GitHub\CPPChat\ChatterBox\server.h(127,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kevin\Documents\GitHub\CPPChat\ChatterBox\server.h(137,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kevin\Documents\GitHub\CPPChat\ChatterBox\server.h(153,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kevin\Documents\GitHub\CPPChat\ChatterBox\server.h(157,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  ChatterBox.vcxproj -> C:\Users\Kevin\Documents\GitHub\CPPChat\ChatterBox\x64\Debug\ChatterBox.exe

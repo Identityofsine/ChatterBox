@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b9abbc6d-9f41-4edf-998d-9576d20fa7b0": {
+      "ProjectGuid": "b9abbc6d-9f41-4edf-998d-9576d20fa7b0",
+      "DisplayName": "ChatterBox",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
